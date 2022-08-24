@@ -1,0 +1,23 @@
+{
+  "name": "tintauto_html",
+  "version": "1.0.0",
+  "description": "auto lending",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichi-padal/tintauto.git"
+  },
+  "author": "kalinvlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichi-padal/tintauto/issues"
+  },
+  "homepage": "https://github.com/ichi-padal/tintauto#readme",
+  "dependencies": {
+    "css-minify": "^1.1.0",
+    "minify": "^6.0.1"
+  }
+}

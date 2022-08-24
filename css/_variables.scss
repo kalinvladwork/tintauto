@@ -1,0 +1,41 @@
+@font-face{
+  font-family: 'Roboto';
+  src: url('../fonts/RobotoCondensed-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Roboto';
+  src: url('../fonts/RobotoCondensed-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'RosaMarena';
+  src: url('../fonts/RosaMarena.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Taurus';
+  src: url('../fonts/taurusheavy-normal.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+$color-green: #00595f;
+$color-white: #ffffff;
+$color-grey-light: #666666;
+$color-grey-light-weary: #d3d3d3;
+$color-grey-green: #6a7c7e;
+$color-grey-dark: #333333;
+
+$h1-font-size: 4.2352rem;
+$h2-font-size: 1.76rem;
+$h3-font-size: 1.4117rem;
+$h4-font-size: 1.1176rem;
+$h5-font-size: 0.8rem;
+
+$body-font-family: Roboto, sans-serif;
+$rosa-font-family:  RosaMarena, sans-serif;
+$taurus-font-family:  Taurus, sans-serif;
